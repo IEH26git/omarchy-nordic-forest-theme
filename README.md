@@ -2,6 +2,8 @@
 
 Muted sage, fog and spruce tones for Omarchy. A calm, dark theme inspired by misty Nordic forests.
 
+![Nordic Forest preview](preview.png)
+
 ## Wallpapers
 
 Four foggy-forest wallpapers are included in `backgrounds/`. See [CREDITS.md](CREDITS.md) for attributions.
@@ -10,7 +12,7 @@ Four foggy-forest wallpapers are included in `backgrounds/`. See [CREDITS.md](CR
 
 #### With the GUI
 
-1. Copy `https://github.com/YOUR_USERNAME/omarchy-nordic-forest-theme` to your clipboard
+1. Copy `https://github.com/IEH26git/omarchy-nordic-forest-theme` to your clipboard
 2. Press `SUPER + ALT + SPACE`
 3. Select `Install`
 4. Select `Style`
@@ -20,7 +22,7 @@ Four foggy-forest wallpapers are included in `backgrounds/`. See [CREDITS.md](CR
 #### With Bash
 
 ```bash
-omarchy theme install https://github.com/YOUR_USERNAME/omarchy-nordic-forest-theme.git
+omarchy theme install https://github.com/IEH26git/omarchy-nordic-forest-theme.git
 ```
 
 ## License
